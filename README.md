@@ -2,6 +2,6 @@
 ### Sejam bem vindos ao peu perfil
 ### welcome my profile
 
--Aprendiz em linguagem python
--Entusiasta de data science
--
+ -Aprendiz de python
+ -Entusiasta de data science
+ -Desenvolvedor iniciante
